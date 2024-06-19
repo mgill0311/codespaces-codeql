@@ -33,3 +33,4 @@ To run simple CodeQL queries in this codespace:
 You can find [CodeQL tutorials](https://codeql.github.com/docs/writing-codeql-queries/ql-tutorials/) in our CodeQL documentation. The tutorials introduce concepts that you can use this codespace to practice.
 
 We also have [CodeQL language guides](https://codeql.github.com/docs/codeql-language-guides/) to help you experiment and learn how to write effective and efficient queries for CodeQL databases generated from the languages supported in CodeQL analysis.
+select "hello world"
